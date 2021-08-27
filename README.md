@@ -1,2 +1,2 @@
 # jenkins-project
-# multiranch pipeline
+# multibranch pipeline
